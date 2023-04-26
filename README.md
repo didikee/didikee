@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @didikee
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=didikee)
